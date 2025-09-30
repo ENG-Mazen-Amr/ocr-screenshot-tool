@@ -41,7 +41,7 @@ Install the required packages:
 ```bash
 pip install pillow pytesseract
 ```
-> **Note:** You need to have Tesseract OCR installed on your system.
+> **Note:** You need to have [Tesseract OCR](https://sourceforge.net/projects/tesseract-ocr.mirror/) installed on your system.
 The app will try to find it automatically or you can manually select the executable if not found.
 
 
