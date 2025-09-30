@@ -36,7 +36,7 @@ A lightweight, user-friendly desktop application for capturing a selected region
 git clone https://github.com/ENG-Mazen-Amr/ocr-screenshot-tool.git
 cd ocr-screenshot-tool
 ```
-Install the required packages:
+2. Install the required packages:
 
 ```bash
 pip install pillow pytesseract
